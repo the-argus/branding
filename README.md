@@ -1,7 +1,4 @@
-# Ian McFarlane
-
-!!! Check out: !!!
-**[My Portfolio](https://the-argus.github.io/portfolio)**
+# **[My Portfolio](https://the-argus.github.io/portfolio)**
 
 **About Me (as a programmer):**
 I am a second year game design student at RIT. I know Python, C#, C, C++,
