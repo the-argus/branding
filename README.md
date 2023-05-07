@@ -1,4 +1,4 @@
-# **[My Portfolio](https://the-argus.github.io/portfolio)**<< Click That
+# If you're interested in my games and art, check out **[My Portfolio](https://the-argus.github.io/portfolio)**
 
 **About Me (as a programmer):**
 I am a second year game design student at RIT. I know Python, C#, C, C++,
