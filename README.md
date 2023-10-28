@@ -3,9 +3,9 @@
 **About Me**
 
 I am a third year game design and development student at RIT. I can write C++,
-C#, C, and Python. Nim and Rust are neat, too. Haven't written enough of them, though.
-Current favorite language is Zig.
+C#, C, Python, Nim, and Rust. Current favorite language is Zig.
 
-I am passionate about simple, sane software development tools. I make my variable
-names really long descriptions of exactly what the variable is. I hope everything
-is open source one day.
+- I am passionate about simple, sane software development tools.
+- I am passionate about software that does what it is supposed to, and does it as efficiently as possible.
+- I make my variable names really long descriptions of exactly what the variable is.
+- I hope everything is open source one day.
