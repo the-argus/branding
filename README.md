@@ -1,4 +1,4 @@
-# For my games, music, and writing, check out **[my portfolio](https://the-argus.github.io/portfolio)**.
+# For my games, music, and writing, check out **[my portfolio](https://the-argus.github.io/portfolio)**
 
 **About Me**
 
