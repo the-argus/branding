@@ -1,8 +1,6 @@
-# For my games, music, and writing, check out
+**For my games, music, and writing, check out [My Portfolio](https://the-argus.github.io/portfolio)**
 
-[My Portfolio](https://the-argus.github.io/portfolio)
-
-**About Me**
+# About Me
 
 I am a third year game design and development student at RIT. I can write C++,
 C#, C, Python, Nim, and Rust. Current favorite language is Zig.
